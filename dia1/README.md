@@ -28,6 +28,8 @@ Olhe novamente para o console, e resolva o próximo erro:
 
 ```
 main.js:3 Uncaught TypeError: Cannot set property 'innerHTML' of null
+
+resolvi sem querer no exercicio 1 achando que esse era o erro do um :p 
 ```
 
 ## Exercício 04
